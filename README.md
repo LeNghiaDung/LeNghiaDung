@@ -1,4 +1,4 @@
-# <p align="center"> Lᴇ Nɢʜɪᴀ Dᴜɴɢ </p>
+# <p align="center"> 𝐋𝐞 𝐍𝐠𝐡𝐢𝐚 𝐃𝐮𝐧𝐠 </p>
 
 
 ![GitHub Metrics](github-metrics.svg)
