@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://herokuapp.com!" />
-</p>
+# <p align="center"> Lᴇ Nɢʜɪᴀ Dᴜɴɢ </p>
+
 
 ![GitHub Metrics](github-metrics.svg)
 ### 📫 How to reach me:
